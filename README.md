@@ -1,17 +1,3 @@
-
-
-Powered by Translate
-Add Hosting Package
-Home
-Help
-Log Out
-Hosting package: daianepiva.com
-HomeBackForwardSelect allSelect noneNew fileNew folderUpload  RenameDuplicateMoveEditChmodUnpackOpen in My Web SiteDeleteOpenPack
-Homepublic_html
-Name	Size	Type	Date Modified	Permissions
-Editing index.html
-
-
 <!DOCTYPE html>
 
 <html>
